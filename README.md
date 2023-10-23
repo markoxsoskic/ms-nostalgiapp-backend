@@ -2,9 +2,9 @@
 
 **Memory Keeper App**
 
-[Explore the docs »](https://github.com/markososkic/ms-nostalgiapp-backend)
+[Explore the docs »](https://github.com/markoxsoskic/ms-nostalgiapp-backend)
 
-[Try It Out! (*Please bear in mind that the backend is hosted on Render free tier, and the server may take some time to respond. Thank you!*)](https://markososkic.github.io/ms-nostalgiapp-frontend/)
+[Try It Out! (*Please bear in mind that the backend is hosted on Render free tier, and the server may take some time to respond. Thank you!*)](https://markoxsoskic.github.io/ms-nostalgiapp-frontend/)
 
 
 
@@ -45,7 +45,7 @@ Follow these steps in order to get a local copy:
 
 1. Clone the repos into the root folder:
    ```sh
-   git clone https://github.com/markososkic/ms-nostalgiapp-backend.git
+   git clone https://github.com/markoxsoskic/ms-nostalgiapp-backend.git
    ```
 2. Install NPM packages using:
    ```sh
