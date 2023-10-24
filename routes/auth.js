@@ -52,7 +52,7 @@ router.post("/register", async (req, res) => {
                 })
 
                 const savedToken = await token.save();
-                const link = `https://ms-nostalgiapp-backend.onrender.com/auth/user/confirm/${savedToken.token}`;
+                const link = `https://ms-nostalgiapp-backend-z7d4.onrender.com/auth/user/confirm/${savedToken.token}`;
                 emailVerification(storedUser.email, link);
 
                 res.status(201).json(storedUser);
